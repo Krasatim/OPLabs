@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isb06\\OneDrive\\Desktop\\OPLabs\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA64706-B96F-49FF-A9BE-50157EFD2A11}|Lab2\\Lab2.csproj|c:\\users\\isb06\\onedrive\\desktop\\oplabs\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA64706-B96F-49FF-A9BE-50157EFD2A11}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\isb06\\OneDrive\\Desktop\\OPLabs\\Lab1\\Lab1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isb06\\OneDrive\\Desktop\\OPLabs\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab1\\Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\isb06\\OneDrive\\Desktop\\OPLabs\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "..\\Lab1\\Lab1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:46:09.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isb06\\OneDrive\\Desktop\\OPLabs\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\isb06\\OneDrive\\Desktop\\OPLabs\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T17:42:46.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
